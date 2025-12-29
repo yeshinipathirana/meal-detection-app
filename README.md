@@ -57,3 +57,6 @@ YOLOv8 Object Detection
 Custom Roboflow dataset
 
 Evaluation using mAP@0.5 and mAP@0.5:0.95
+
+![WhatsApp Image 2025-12-28 at 11 22 51 PM](https://github.com/user-attachments/assets/8b0885c7-83d3-4a7b-8f1d-54d7cd3de116)
+
