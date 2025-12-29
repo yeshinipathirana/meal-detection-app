@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['Dhal Curry', 'Fish Curry', 'Gotukola Mallum', 'Hoppers', 'Kiribath', 'Kottu', 'Lunu sambol', 'Pittu', 'Pol Sambol', 'String Hoppers', 'Watalappam']
+
+roboflow:
+  workspace: datasets-t4rki
+  project: food-detect-ulvtq-8bbzy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/datasets-t4rki/food-detect-ulvtq-8bbzy/dataset/1

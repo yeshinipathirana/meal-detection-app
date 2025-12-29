@@ -1,0 +1,17 @@
+path: D:\food calorie app 2\dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 11
+names:
+- Dhal Curry
+- Fish Curry
+- Gotukola Mallum
+- Hoppers
+- Kiribath
+- Kottu
+- Lunu sambol
+- Pittu
+- Pol Sambol
+- String Hoppers
+- Watalappam
